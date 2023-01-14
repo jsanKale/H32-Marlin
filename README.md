@@ -42,3 +42,4 @@ You shouldn’t need to do this with every firmware update. If you have weird is
 7. Turn the printer on. The LCD will display blue if an update was successfully recognised. It will switch to red upon success.
 8. Turn the printer off, remove the SD card, and turn it back on.
 # H32-Marlin
+# H32-Marlin
