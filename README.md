@@ -5,7 +5,7 @@ The H32, specifically the Huada Semiconductor (HDSC) HC32F460PETB, is built on t
 
 On the other hand, as of 2.0.9.3 Marlin now officially supports the full-color LCDs used by the Ender 3 v2 and Aquila X2, so fewer patches are required to get Marlin working on these printers.
 
-**Current version:** Marlin 2.1.1 (kirb/Marlin-H32 rev. 2)
+**Current version:** Marlin 2.1.2 (Base from kirb/Marlin-H32 rev. 2)
 
 ## Current status
 * No known issues
